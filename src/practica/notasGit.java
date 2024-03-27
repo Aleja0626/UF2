@@ -210,7 +210,7 @@ public class notasGit {
 				 * @see llamado de metodo comprobacion para verificacion de la informacion ingresada en @link IngresaNotas.
 				 */
 				
-				fc.comprobacion();
+				fc.comprobacionNotas();
 				
 				/**
 				 * @see uso del metodo @link Calculonotas, con @link IngresaNotas para la obtencion de datos.
@@ -222,13 +222,13 @@ public class notasGit {
 				 * @see uso del metodo @link Mostrar, para mostrar por consola los datos de @link IngresaNotas.
 				 */
 				
-				fc.Mostrar();
+				fc.MostrarNotas();
 				
 				/**
 				 * @see uso del metodo @link Calculonotas, para comprobar @link aprobado.
 				 */
 				
-				fc.aprobado();
+				fc.resultado();
 				
 	}
 
