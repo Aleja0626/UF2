@@ -137,7 +137,7 @@ public class notasGit {
 	 * @return def, mostrara el valor final  de la nota.
 	 */
 	
-	public void Mostrar() {
+	public void MostrarNotas() {
 	
 		/**
 		 * Muestra por las consola las notas introducidas.
