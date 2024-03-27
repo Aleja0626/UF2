@@ -169,7 +169,7 @@ public class notasGit {
 	 * @throws def, excepcion para comprobar el valor de la nota este correctamente ingresado.
 	 */
 
-	public void aprobado() {
+	public void resultado() {
 		
 		/**
 		 * @see si el valor de la nota es menor a 5 y mayor o igual a 0, ha suspendido.
