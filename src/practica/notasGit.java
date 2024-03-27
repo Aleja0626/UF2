@@ -61,7 +61,7 @@ public class notasGit {
 	 * @throws uf3, se lanza la excepcion para evitar un fallo en la nota3.
 	 */
 	
-	public void comprobacion(){
+	public void comprobacionNotas(){
 		
 			/**
 			 * Si la nota1 es la mayor de 10.
